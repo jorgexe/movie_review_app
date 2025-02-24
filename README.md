@@ -18,7 +18,7 @@ A Java Swing application for managing movie reviews and watchlists. Users can re
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/jorgexe/movie_review_app.git
    cd movie-reviews-app
 2. **Compile the Application**:
    ```bash
